@@ -18,9 +18,10 @@ promedio = round((nota1 + nota2 + nota3) /3, 2)
 print(f"Tu promedio es: {promedio}")
 
 if promedio > 4.0:
-    print("Aprobaste el ramo")
+    print("Aprobaste el ramo, yei!")
 else:
-    print("Reprobaste el ramo, yei!")
+    print("Reprobaste el ramo")
+
 
 
 
