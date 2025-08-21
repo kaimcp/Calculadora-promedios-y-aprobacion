@@ -1,1 +1,1 @@
-Holi, esto es para una tarea y para pracricar mi habilidad y conocimientos en python
+Holi, esto es para una tarea y para practicar mi habilidad y conocimientos en python
